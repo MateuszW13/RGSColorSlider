@@ -12,8 +12,6 @@
 @interface RGSColorSlider ()
 
 
-@property (nonatomic, strong)UIImageView *colorTrackImageView;
-
 @property (nonatomic, strong)RGSPreviewView *previewView;
 
 @end
