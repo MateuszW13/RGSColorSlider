@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		000C78874F8B766F67F40B4986FD8945 /* RGSColorSlider-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 11DE8BDD8CCDA323B9F51D962AC1B53E /* RGSColorSlider-dummy.m */; };
 		177CFE742EE4604B41F1F0363B6BAF0A /* Pods-RGSColorSlider_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B8F2584A3660837EC83DD1B033BFAA7E /* Pods-RGSColorSlider_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1DAC5A07CE0E3F864D383689702E778E /* colorTrack.png in Resources */ = {isa = PBXBuildFile; fileRef = E616348C20914C885B0F0A31E7E0EE6B /* colorTrack.png */; };
+		1DAC5A07CE0E3F864D383689702E778E /* colorTrack1.png in Resources */ = {isa = PBXBuildFile; fileRef = E616348C20914C885B0F0A31E7E0EE6B /* colorTrack1.png */; };
 		2588D0087FFE702452636E539CFCA078 /* RGSPreviewView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F587C4F3D2A7CF4CF0007A34B6832BC /* RGSPreviewView.m */; };
 		592CDFB60946765BEB3A0BA2A0C40A1F /* RGSColorSlider.h in Headers */ = {isa = PBXBuildFile; fileRef = DE5BD9AB7D32D3C81FA6FA478CDDBC97 /* RGSColorSlider.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		69CDFD2075EC623A47B5C032C67B2BA4 /* Pods-RGSColorSlider_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BA199CC02A624FC713ADA87E84DC1695 /* Pods-RGSColorSlider_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -77,7 +77,7 @@
 		D2794CC6851B366C0D43960AED697BD4 /* RGSPreviewView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RGSPreviewView.h; sourceTree = "<group>"; };
 		DE5BD9AB7D32D3C81FA6FA478CDDBC97 /* RGSColorSlider.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = RGSColorSlider.h; sourceTree = "<group>"; };
 		DEFC01E7915C52032B2B4304479D22F4 /* ResourceBundle-RGSColorSlider-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-RGSColorSlider-Info.plist"; sourceTree = "<group>"; };
-		E616348C20914C885B0F0A31E7E0EE6B /* colorTrack.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = colorTrack.png; sourceTree = "<group>"; };
+		E616348C20914C885B0F0A31E7E0EE6B /* colorTrack1.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = colorTrack1.png; sourceTree = "<group>"; };
 		E6CFD24E94976EFAC76ED34FE4BB91B7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E90F109086239695E17A7A51C9C9EDB4 /* Pods-RGSColorSlider_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-RGSColorSlider_Example.modulemap"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -145,7 +145,7 @@
 		3DE312CD0995962B81FDF4FDEDD9654F /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				E616348C20914C885B0F0A31E7E0EE6B /* colorTrack.png */,
+				E616348C20914C885B0F0A31E7E0EE6B /* colorTrack1.png */,
 			);
 			path = Assets;
 			sourceTree = "<group>";
@@ -414,7 +414,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1DAC5A07CE0E3F864D383689702E778E /* colorTrack.png in Resources */,
+				1DAC5A07CE0E3F864D383689702E778E /* colorTrack1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
